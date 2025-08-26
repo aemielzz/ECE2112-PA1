@@ -2,6 +2,8 @@
 ## 1. ALPHABET SOUP PROBLEM: Create a function that takes a string and returns a string with its letters in alphabetical order.
 <img width="1185" height="208" alt="Screenshot 2025-08-26 at 4 22 09 PM" src="https://github.com/user-attachments/assets/97e78121-98da-484d-bfc5-acfc6776b20d" />
 
+I declared def to define the function alphabet_soup(s): The code that will arrange our string into alphabetical order is the code sort. the ' '. join is used to combine the elements of the string.  while the str is the name of the result of the code. After coding I declared print(alphabet_soup("hello")) means print the word hello but using the code that I declared from the alphabet_soup. The output are the same letters but in alphabetical therefore it is "ehllo" that is also the same with the "whatsup".
+
 ## 2. EMOTICON PROBLEM: Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
 <img width="1192" height="193" alt="Screenshot 2025-08-26 at 4 21 21 PM" src="https://github.com/user-attachments/assets/ef922895-8a28-4361-90fe-2c5b6da9d055" />
 
