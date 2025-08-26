@@ -1,6 +1,10 @@
 # ECE2112-PA1
-## 1. <img width="1193" height="244" alt="Screenshot 2025-08-26 at 4 13 41 PM" src="https://github.com/user-attachments/assets/9cd181a7-008d-45ea-b66a-18d13c2272b6" />
-## 2. <img width="1195" height="246" alt="Screenshot 2025-08-26 at 4 13 56 PM" src="https://github.com/user-attachments/assets/8a3c29c6-c7ad-4028-88f7-7b7ec75c6fb9" />
+## 1. ALPHABET SOUP PROBLEM: Create a function that takes a string and returns a string with its letters in alphabetical order.
+<img width="1185" height="208" alt="Screenshot 2025-08-26 at 4 22 09 PM" src="https://github.com/user-attachments/assets/97e78121-98da-484d-bfc5-acfc6776b20d" />
+
+## 2. EMOTICON PROBLEM: Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
+<img width="1192" height="193" alt="Screenshot 2025-08-26 at 4 21 21 PM" src="https://github.com/user-attachments/assets/ef922895-8a28-4361-90fe-2c5b6da9d055" />
+I declared def to define the function emoticon(a):. The return function to execute the code so we can replace the following variables. a.replace will help us replace the text in an emoticon a.replace ("smile",": )"). replace will replace the word smile into an emoticon when we input a sentence that involves the word smile, it's the same with grin, mad, and sad. As you can see I declared print (emoticon("you always make me smile")) and when the code was executed the word smile was replaced with the emoticon : ). The same with the word sad.
 ## 3. UNPACKING LIST PROBLEM: Unpack the list write yourcode here into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables. 
 <img width="1197" height="113" alt="Screenshot 2025-08-26 at 4 19 25 PM" src="https://github.com/user-attachments/assets/2d9c328c-67ef-44ef-8cb6-7f52879a72b3" />
 First, I declared T as the name of all the variables in the list and made sure to put quotation marks and brackets. After inputting the data, I declared print ("first:", T[0],) to print the zeroth variable which is luneta. I also declared "middle:",T[1:3], to print the first variable up until before the 3rd variable, This results to  intramuros and fort santiago. For the last one I declared "last: ",T[-1], which resulted to binondo because if you are counting the variables starting from the right it is considered -1 and so on and so forth"
