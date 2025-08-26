@@ -1,6 +1,6 @@
 # ECE2112-PA1
 ## 1. ALPHABET SOUP PROBLEM: Create a function that takes a string and returns a string with its letters in alphabetical order.
-<center> <img width="1185" height="208" alt="Screenshot 2025-08-26 at 4 22 09 PM" src="https://github.com/user-attachments/assets/97e78121-98da-484d-bfc5-acfc6776b20d" />
+<img width="1185" height="208" alt="Screenshot 2025-08-26 at 4 22 09 PM" src="https://github.com/user-attachments/assets/97e78121-98da-484d-bfc5-acfc6776b20d" />
 
 ## 2. EMOTICON PROBLEM: Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
 <img width="1192" height="193" alt="Screenshot 2025-08-26 at 4 21 21 PM" src="https://github.com/user-attachments/assets/ef922895-8a28-4361-90fe-2c5b6da9d055" />
