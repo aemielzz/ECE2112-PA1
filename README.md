@@ -1,5 +1,6 @@
 # ECE2112-PA1
 ## 1. <img width="1193" height="244" alt="Screenshot 2025-08-26 at 4 13 41 PM" src="https://github.com/user-attachments/assets/9cd181a7-008d-45ea-b66a-18d13c2272b6" />
 ## 2. <img width="1195" height="246" alt="Screenshot 2025-08-26 at 4 13 56 PM" src="https://github.com/user-attachments/assets/8a3c29c6-c7ad-4028-88f7-7b7ec75c6fb9" />
-## 3. <img width="1195" height="158" alt="Screenshot 2025-08-26 at 4 14 08 PM" src="https://github.com/user-attachments/assets/db016312-772a-4a7c-b1f0-0b5ae58e511b" />
+## 3. UNPACKING LIST PROBLEM: Unpack the list write yourcode here into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables. 
+<img width="1197" height="113" alt="Screenshot 2025-08-26 at 4 19 25 PM" src="https://github.com/user-attachments/assets/2d9c328c-67ef-44ef-8cb6-7f52879a72b3" />
 First, I declared T as the name of all the variables in the list and made sure to put quotation marks and brackets. After inputting the data, I declared print ("first:", T[0],) to print the zeroth variable which is luneta. I also declared "middle:",T[1:3], to print the first variable up until before the 3rd variable, This results to  intramuros and fort santiago. For the last one I declared "last: ",T[-1], which resulted to binondo because if you are counting the variables starting from the right it is considered -1 and so on and so forth"
